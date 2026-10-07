@@ -1,0 +1,34 @@
+{
+  "optifine": {
+    "classpath": {
+      "ranges": []
+    },
+    "classloader": {
+      "ranges": []
+    }
+  },
+  "forge": {
+    "classpath": {
+      "ranges": []
+    },
+    "classloader": {
+      "ranges": []
+    }
+  },
+  "fabric": {
+    "classpath": {
+      "ranges": []
+    },
+    "classloader": {
+      "ranges": []
+    }
+  },
+  "neoforge": {
+    "classpath": {
+      "ranges": []
+    },
+    "classloader": {
+      "ranges": []
+    }
+  }
+}

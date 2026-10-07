@@ -1,0 +1,30 @@
+{
+  "1.20.4": {
+    "name": "OptiFine_1.20.4_HD_U_I7",
+    "launchname": "1.20.4-OptiFine_HD_U_I7"
+  },
+  "1.20.2": {
+    "name": "OptiFine_1.20.2_HD_U_I6",
+    "launchname": "1.20.2-OptiFine_HD_U_I6"
+  },
+  "1.20.1": {
+    "name": "OptiFine_1.20.1_HD_U_I6",
+    "launchname": "1.20.1-OptiFine_HD_U_I6"
+  },
+  "1.19.4": {
+    "name": "OptiFine_1.19.4_HD_U_I4",
+    "launchname": "1.19.4-OptiFine_HD_U_I4"
+  },
+  "1.16.5": {
+    "name": "OptiFine_1.16.5_HD_U_G8",
+    "launchname": "1.16.5-OptiFine_HD_U_G8"
+  },
+  "1.12.2": {
+    "name": "OptiFine_1.12.2_HD_U_G5",
+    "launchname": "1.12.2-OptiFine_HD_U_G5"
+  },
+  "1.8.9": {
+    "name": "OptiFine_1.8.9_HD_U_M5",
+    "launchname": "1.8.9-OptiFine_HD_U_M5"
+  }
+}
