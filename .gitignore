@@ -1,6 +1,5 @@
+push.bat
+*.log
 .DS_Store
 Thumbs.db
-*.log
-.idea/
-.vscode/
-push.bat
+*.tmp
